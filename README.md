@@ -1,3 +1,5 @@
+<img src="pixel_cat.gif" width="50" align="right" alt="Pixel Cat" />
+
 <div align="center">
 
   <!-- Três objetos 3D fofos, que se movem de verdade e NÃO possuem fundo (transparentes) -->
