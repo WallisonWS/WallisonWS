@@ -21,12 +21,12 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um profissional com perfil híbrido, atuando no **desenvolvimento de sistemas** modernos (Web/Mobile) e na administração de **infraestrutura de redes e segurança** da informação na *ABC Associação Brasil Central*.
+Sou um profissional com perfil híbrido, atuando no **desenvolvimento de sistemas** modernos (Web/Mobile) e na administração de **infraestrutura de redes, servidores e cibersegurança** na *ABC Associação Brasil Central*. 
 
-- 💼 **Técnico de TI** na ABC Associação Brasil Central.
-- 📱 **Mobile & Web:** Criando aplicações fluidas com Flutter, React e Next.js.
-- 🛡️ **Redes & Segurança:** Firewalls FortiGate/pfSense e servidores baseados em Zero Trust.
-- ⚙️ **Organização:** Produtividade e suporte utilizando GTD e Trello.
+- 💼 **Administrador de TI / Redes** na ABC Associação Brasil Central.
+- 📱 **Desenvolvimento Web & Mobile:** Criação de interfaces fluidas e seguras.
+- 🛡️ **Segurança e Redes:** Implementação de políticas Zero Trust, gerenciamento de VLANs e Firewalls redundantes.
+- ⚙️ **Organização e Produtividade:** Focado em processos otimizados com metodologia GTD e documentação contínua.
 
 ---
 
@@ -45,16 +45,61 @@ Sou um profissional com perfil híbrido, atuando no **desenvolvimento de sistema
 
   <br/>
 
-  **🔒 Infraestrutura & Segurança**
+  **🔒 Redes & Cibersegurança**
   
-  <img src="https://img.shields.io/badge/Active_Directory-4F7FBF?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/FortiGate-C00000?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FortiGate_80F-C00000?style=flat-square&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-E27D34?style=flat-square&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aruba-FF6600?style=flat-square&logo=hpe&logoColor=white" />
-  <img src="https://img.shields.io/badge/UniFi-005FFF?style=flat-square&logo=ubiquiti&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asterisk-F39C12?style=flat-square&logo=asterisk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aruba_Switches-FF6600?style=flat-square&logo=hpe&logoColor=white" />
+  <img src="https://img.shields.io/badge/UniFi_Wireless-005FFF?style=flat-square&logo=ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/NXFilter-31A85A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zero_Trust_Routing-000000?style=flat-square" />
+
+  <br/>
+
+  **⚙️ Infraestrutura & Virtualização**
+  
+  <img src="https://img.shields.io/badge/XCP--ng-00B2B2?style=flat-square&logo=xenproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-4F7FBF?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windowsserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+  <br/>
+
+  **🎙️ Telecom, CFTV & Monitoramento**
+  
+  <img src="https://img.shields.io/badge/Asterisk_VoIP-F39C12?style=flat-square&logo=asterisk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hikvision_NVR-E60012?style=flat-square" />
+  <img src="https://img.shields.io/badge/Monit-000000?style=flat-square" />
+
+  <br/>
+
+  **🎨 Design & Audiovisual**
+  
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+
+  <br/>
+
+  **📊 Gestão & Produtividade**
+  
+  <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTD_Method-000000?style=flat-square" />
 
 </div>
+
+---
+
+### 🏛️ Sistemas de Gestão & Apoio (Corporativo / Escolar)
+Administração, suporte técnico e manutenção preventiva dos sistemas integrados da instituição:
+
+*   **CPB / E-CLASS** – Gestão educacional, portal de alunos/pais e docentes.
+*   **SAD** – Sistema de Apoio ao Docente.
+*   **SSE** – Sistema de Secretaria Escolar.
+*   **AASI & CFE** – Sistemas de contabilidade e finanças escolar.
+*   **APS** – Sistema de gestão de folha de pagamento.
+*   **Urania & Sino** – Geração de grade de aulas e controle automatizado de intervalos de aulas.
 
 ---
 
