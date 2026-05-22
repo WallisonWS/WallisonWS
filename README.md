@@ -1,4 +1,4 @@
-<img src="pixel_cat.gif" width="50" align="right" alt="Pixel Cat" />
+<img src="pixel_cat_v2.gif" width="50" align="right" alt="Pixel Cat" />
 
 <div align="center">
 
