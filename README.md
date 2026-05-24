@@ -111,6 +111,18 @@ Administração, suporte técnico e manutenção preventiva dos sistemas integra
 *   **APS** – Sistema de gestão de folha de pagamento.
 *   **Urania & Sino** – Geração de grade de aulas e controle automatizado de intervalos de aulas.
 
+<!-- TRELLO_STATS_START -->
+#### 📊 Trello & Kanban - Metricas de Produtividade GTD
+```text
+Progresso de Tarefas: [██████████████████░░] 90%
+--------------------------------------------------
+📋 A Fazer (To Do):     3
+⚙️ Em Andamento (Doing): 2
+✅ Concluidos (Done):    45
+```
+_💡 **Modo de Demonstracao** | Para ativar a sincronizacao real com o seu Trello, adicione as Secrets no repositorio (`TRELLO_API_KEY`, `TRELLO_TOKEN`, `TRELLO_BOARD_ID`)._
+<!-- TRELLO_STATS_END -->
+
 ---
 
 ### 📊 Estatísticas & Atividade (Cobrinha)

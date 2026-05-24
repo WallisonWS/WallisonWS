@@ -1,0 +1,43 @@
+name: Update Trello Productivity Stats
+
+on:
+  schedule:
+    # Roda a cada 6 horas (gerando 4 commits automáticos por dia se houver mudanças)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Permite execução manual
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Trello Scriptor
+        run: python scripts/update_trello_stats.py
+        env:
+          TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
+          TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+          TRELLO_BOARD_ID: ${{ secrets.TRELLO_BOARD_ID }}
+
+      - name: Commit and Push changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "Nenhuma mudança nas estatísticas do Trello."
+          else
+            git config --global user.email "wallisonoficial85@gmail.com"
+            git config --global user.name "WallisonWS"
+            git add README.md
+            git commit -m "chore: sync trello productivity metrics [skip ci]"
+            git push
+            echo "✅ Estatísticas do Trello atualizadas com sucesso no perfil!"
+          fi
