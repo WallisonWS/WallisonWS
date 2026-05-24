@@ -32,6 +32,14 @@ Sou um profissional com perfil híbrido, atuando no **desenvolvimento de sistema
 
 ---
 
+### 🛡️ Recursos em Destaque (Open Source)
+
+Se você trabalha com infraestrutura, redes ou segurança corporativa, confira os meus recursos e cheat sheets públicos:
+
+*   **[awesome-secure-infrastructure](https://github.com/WallisonWS/awesome-secure-infrastructure)**: Guia de arquitetura Zero Trust, Cheat Sheets de comandos CLI para **FortiGate 80F** e **Switches Aruba**, além de scripts Python/PowerShell para automação de backups de equipamentos.
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
