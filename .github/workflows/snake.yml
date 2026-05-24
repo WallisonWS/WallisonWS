@@ -1,0 +1,37 @@
+name: Generate Snake Game Animation
+
+on:
+  schedule:
+    # Roda automaticamente a cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+    # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Gera a animação da cobrinha comendo os quadradinhos de contribuição
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Envia os arquivos gerados (SVG) para a branch especial 'output'
+      # Isso mantém o histórico de commits do seu perfil ativo e limpo
+      - name: Push Snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

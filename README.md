@@ -113,12 +113,23 @@ Administração, suporte técnico e manutenção preventiva dos sistemas integra
 
 ---
 
-### 📊 Estatísticas (Tamanho Compacto)
+### 📊 Estatísticas & Atividade (Cobrinha)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WallisonWS&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallisonWS&theme=react" height="150" alt="Streak do GitHub" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Animação da cobrinha comendo os quadradinhos gerada automaticamente a cada 12 horas -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
