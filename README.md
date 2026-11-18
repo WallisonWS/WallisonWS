@@ -36,6 +36,7 @@ Sou um profissional com perfil híbrido, atuando no **desenvolvimento de sistema
 
 Se você trabalha com infraestrutura, redes ou segurança corporativa, confira os meus recursos e cheat sheets públicos:
 
+*   **[devsecops-toolkit](https://github.com/WallisonWS/devsecops-toolkit)** ([🌐 Abrir Web Studio Online](https://wallisonws.github.io/devsecops-toolkit/)): Canivete Suíço 100% Client-Side & CLI para **Devs, Analistas de SOC/Segurança, Dados e Redes** — inclui Transpilador Multi-Vendor de Firewall (**FortiGate, pfSense, Aruba, Linux, AWS**), Calculadora Visual CIDR/VLSM, Scanner de Logs/IOCs/Leaks, Conversor JSON/CSV/SQL com Data Profiler e Auditor de JWT.
 *   **[awesome-secure-infrastructure](https://github.com/WallisonWS/awesome-secure-infrastructure)**: Guia de arquitetura Zero Trust, Cheat Sheets de comandos CLI para **FortiGate 80F** e **Switches Aruba**, além de scripts Python/PowerShell para automação de backups de equipamentos.
 
 ---
