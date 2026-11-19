@@ -1,116 +1,136 @@
-<img src="pixel_cat.webp" width="60" align="right" alt="Pixel Cat" />
-
 <div align="center">
 
-  <!-- Três objetos 3D fofos, que se movem de verdade e NÃO possuem fundo (transparentes) -->
-  <p align="center">
-    <img src="3d_cloud.png" width="100" alt="3D Cloud" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="3d_laptop.png" width="100" alt="3D Laptop" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="3d_shield.png" width="100" alt="3D Shield" />
-  </p>
+<!-- Custom Animated Cyber/DevSecOps Hero Banner (Local SVG — 100% Uptime, Crisp on Dark & Light Mode) -->
+<a href="https://wallisonws.github.io/devsecops-toolkit/">
+  <img src="assets/hero-banner.svg" width="100%" alt="Wallison Araujo — Software Engineer, DevSecOps & Zero-Trust Network Architect" />
+</a>
 
-  <h1>Olá, eu sou o Wallison Araujo! 👋</h1>
+<br/>
 
-  <!-- Texto dinâmico que digita sozinho -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A1FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Software;Infraestrutura+%26+Redes;Especialista+Mobile+%26+Web;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o" alt="Typing SVG" />
+<!-- Live Social Proof & High-Impact CTAs -->
+<p align="center">
+  <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/⚡_Launch_DevSecOps_Toolkit_(12_Tools)-0ea5e9?style=for-the-badge" alt="Launch DevSecOps Toolkit" /></a>
+  <a href="https://wallisonws.github.io/netguard-audit/"><img src="https://img.shields.io/badge/🛡️_Launch_NetGuard_Audit-10b981?style=for-the-badge" alt="Launch NetGuard Audit" /></a>
+  <a href="https://linkedin.com/in/wallisonaraujo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-  <p>✨ <i>Transformando ideias em código e mantendo a rede rodando de forma segura!</i> ✨</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/WallisonWS?label=Followers&style=flat-square&color=38bdf8&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/WallisonWS?affiliations=OWNER&label=Total%20Stars&style=flat-square&color=f59e0b&logo=github" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=WallisonWS&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open_to-High--Impact_Engineering_%26_DevSecOps-10b981?style=flat-square" alt="Open to Opportunities" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 Sobre Mim
-Sou um profissional com perfil híbrido, atuando no **desenvolvimento de sistemas** modernos (Web/Mobile) e na administração de **infraestrutura de redes, servidores e cibersegurança** na *ABC Associação Brasil Central*. 
+## 🚀 Flagship Open-Source Tools & Live Production Apps
 
-- 💼 **Administrador de TI / Redes** na ABC Associação Brasil Central.
-- 📱 **Desenvolvimento Web & Mobile:** Criação de interfaces fluidas e seguras.
-- 🛡️ **Segurança e Redes:** Implementação de políticas Zero Trust, gerenciamento de VLANs e Firewalls redundantes.
-- ⚙️ **Organização e Produtividade:** Focado em processos otimizados com metodologia GTD e documentação contínua.
+> **Built for Developers, Security/SOC Analysts, Data Engineers & SysAdmins — 100% Open Source & Privacy-First.**
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/WallisonWS/devsecops-toolkit">
+        <img src="assets/card-devsecops.svg" width="100%" alt="DevSecOps Toolkit v2.0" />
+      </a>
+      <br/>
+      <a href="https://wallisonws.github.io/devsecops-toolkit/">🌐 <b>Live Web Studio (12 Tools)</b></a> • <a href="https://github.com/WallisonWS/devsecops-toolkit">📦 Source &amp; CLI</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WallisonWS/netguard-audit">
+        <img src="assets/card-netguard.svg" width="100%" alt="NetGuard Audit CLI" />
+      </a>
+      <br/>
+      <a href="https://wallisonws.github.io/netguard-audit/">🌐 <b>Live Secret Scanner</b></a> • <a href="https://github.com/WallisonWS/netguard-audit">📦 Python &amp; PowerShell CLI</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/WallisonWS/awesome-secure-infrastructure">
+        <img src="assets/card-awesome.svg" width="100%" alt="Awesome Secure Infrastructure" />
+      </a>
+      <br/>
+      <a href="https://github.com/WallisonWS/awesome-secure-infrastructure">🛡️ <b>Zero-Trust Guides &amp; Automated Threat Feeds</b></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/WallisonWS/tactical-rmm-enhanced">
+        <img src="assets/card-tactical.svg" width="100%" alt="Tactical RMM Enhanced" />
+      </a>
+      <br/>
+      <a href="https://github.com/WallisonWS/tactical-rmm-enhanced">🤖 <b>Full-Stack RMM + EDR + AI Diagnostics Monorepo</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛡️ Recursos em Destaque (Open Source)
+## 👨‍💻 Engineering Profile & Impact
 
-Se você trabalha com infraestrutura, redes ou segurança corporativa, confira os meus recursos e cheat sheets públicos:
+I am a **hybrid Software Engineer & Cybersecurity / Network Architect** bridging modern **Full-Stack & Mobile Engineering** with **Enterprise Zero-Trust Infrastructure**. I build resilient systems from the network packet layer up to the user interface.
 
-*   **[devsecops-toolkit](https://github.com/WallisonWS/devsecops-toolkit)** ([🌐 Abrir Web Studio Online](https://wallisonws.github.io/devsecops-toolkit/)): Canivete Suíço 100% Client-Side & CLI para **Devs, Analistas de SOC/Segurança, Dados e Redes** — inclui Transpilador Multi-Vendor de Firewall (**FortiGate, pfSense, Aruba, Linux, AWS**), Calculadora Visual CIDR/VLSM, Scanner de Logs/IOCs/Leaks, Conversor JSON/CSV/SQL com Data Profiler e Auditor de JWT.
-*   **[awesome-secure-infrastructure](https://github.com/WallisonWS/awesome-secure-infrastructure)**: Guia de arquitetura Zero Trust, Cheat Sheets de comandos CLI para **FortiGate 80F** e **Switches Aruba**, além de scripts Python/PowerShell para automação de backups de equipamentos.
+| 💻 Software Engineering & Automation | 🛡️ Cybersecurity, Cloud & Infrastructure |
+| :--- | :--- |
+| • **Web & Mobile Apps:** React, Next.js, TypeScript, Flutter & Dart | • **Zero-Trust Networks:** FortiGate 80F, pfSense, MikroTik, Aruba & UniFi |
+| • **Backend & Systems:** Python, Go, Django, REST APIs, SQL & Docker | • **Security Engineering:** VLAN Isolation, Threat Intel Feeds, EDR & AppSec |
+| • **DevEx & Open Source:** Privacy-first browser tools & zero-dependency CLIs | • **Enterprise Ops:** Linux SysAdmin, Windows Server, AD, XCP-ng & VoIP |
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technology Stack & Security Arsenal
 
 <div align="center">
 
-  **💻 Software Development**
-  
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></a>
-  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/js"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+**Languages & Application Frameworks**
 
-  <br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  **🔒 Redes & Cibersegurança**
-  
-  <img src="https://img.shields.io/badge/FortiGate_80F-C00000?style=flat-square&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/pfSense-E27D34?style=flat-square&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aruba_Switches-FF6600?style=flat-square&logo=hpe&logoColor=white" />
-  <img src="https://img.shields.io/badge/UniFi_Wireless-005FFF?style=flat-square&logo=ubiquiti&logoColor=white" />
-  <img src="https://img.shields.io/badge/NXFilter-31A85A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Zero_Trust_Routing-000000?style=flat-square" />
+**DevSecOps, Networking & Enterprise Infrastructure**
 
-  <br/>
-
-  **⚙️ Infraestrutura & Virtualização**
-  
-  <img src="https://img.shields.io/badge/XCP--ng-00B2B2?style=flat-square&logo=xenproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-4F7FBF?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windowsserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-  <br/>
-
-  **🎙️ Telecom, CFTV & Monitoramento**
-  
-  <img src="https://img.shields.io/badge/Asterisk_VoIP-F39C12?style=flat-square&logo=asterisk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hikvision_NVR-E60012?style=flat-square" />
-  <img src="https://img.shields.io/badge/Monit-000000?style=flat-square" />
-
-  <br/>
-
-  **🎨 Design & Audiovisual**
-  
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-
-  <br/>
-
-  **📊 Gestão & Produtividade**
-  
-  <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTD_Method-000000?style=flat-square" />
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-### 🏛️ Sistemas de Gestão & Apoio (Corporativo / Escolar)
-Administração, suporte técnico e manutenção preventiva dos sistemas integrados da instituição:
+## 📊 GitHub Activity & Contribution Graph
 
-*   **CPB / E-CLASS** – Gestão educacional, portal de alunos/pais e docentes.
-*   **SAD** – Sistema de Apoio ao Docente.
-*   **SSE** – Sistema de Secretaria Escolar.
-*   **AASI & CFE** – Sistemas de contabilidade e finanças escolar.
-*   **APS** – Sistema de gestão de folha de pagamento.
-*   **Urania & Sino** – Geração de grade de aulas e controle automatizado de intervalos de aulas.
+<div align="center">
+  <!-- Automated GitHub Contribution Snake (updated every 12h via GitHub Actions) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<details>
+  <summary><b>🏛️ Enterprise Operations, Institutional Systems &amp; GTD Metrics (Click to expand)</b></summary>
+
+  <br/>
+
+  **Corporate Infrastructure & Integrated Management Systems (ABC Associação Brasil Central):**
+  * **Zero-Trust Segmentation & CFTV Isolation:** FortiGate 80F, Aruba Switches, UniFi Wireless, NXFilter, Hikvision NVR & Asterisk VoIP.
+  * **Virtualization & Directory:** XCP-ng, Windows Server, Active Directory & Monit.
+  * **Mission-Critical ERP Administration:** CPB / E-CLASS, SAD, SSE, AASI & CFE, APS, Urania & Sino.
 
 <!-- TRELLO_STATS_START -->
 #### 📊 Trello & Kanban - Metricas de Produtividade GTD
@@ -124,37 +144,19 @@ Progresso de Tarefas: [██████████████████░
 _💡 **Modo de Demonstracao** | Para ativar a sincronizacao real com o seu Trello, adicione as Secrets no repositorio (`TRELLO_API_KEY`, `TRELLO_TOKEN`, `TRELLO_BOARD_ID`)._
 <!-- TRELLO_STATS_END -->
 
----
-
-### 📊 Estatísticas & Atividade (Cobrinha)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallisonWS&show_icons=true&theme=react&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallisonWS&theme=react" height="150" alt="Streak do GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Animação da cobrinha comendo os quadradinhos gerada automaticamente a cada 12 horas -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+</details>
 
 ---
 
-### 🤝 Conecte-se Comigo
-
 <div align="center">
-  <a href="https://linkedin.com/in/wallisonaraujo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:wallisonoficial85@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+### ⭐ Support Open-Source DevSecOps Tooling
+If any of my tools saved you time in development, incident response, or infrastructure hardening, consider **following [`@WallisonWS`](https://github.com/WallisonWS)** and dropping a **⭐ Star** on the repositories!
+
+<a href="https://linkedin.com/in/wallisonaraujo"><img src="https://img.shields.io/badge/LinkedIn-Wallison_Araujo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-wallisonoficial85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/Live_Portfolio-DevSecOps_Toolkit-38bdf8?style=for-the-badge" /></a>
+
 </div>

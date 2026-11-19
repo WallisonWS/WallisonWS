@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="205" viewBox="0 0 580 205" role="img" aria-label="Tactical RMM Enhanced">
+  <defs>
+    <linearGradient id="c4Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#19132e"/>
+    </linearGradient>
+    <linearGradient id="c4Accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="205" rx="16" fill="url(#c4Bg)"/>
+  <rect x="1" y="1" width="578" height="203" rx="15" fill="none" stroke="#3b2768" stroke-width="1.5"/>
+  <rect x="0" y="0" width="580" height="5" rx="2.5" fill="url(#c4Accent)"/>
+
+  <rect x="24" y="24" width="44" height="44" rx="11" fill="#2e1065" stroke="#a855f7" stroke-opacity="0.5"/>
+  <text x="46" y="53" text-anchor="middle" font-size="22">🤖</text>
+
+  <text x="82" y="44" fill="#f8fafc" font-family="Segoe UI, system-ui, sans-serif" font-size="20" font-weight="800">Tactical RMM Enhanced</text>
+  <text x="82" y="64" fill="#c084fc" font-family="Consolas, monospace" font-size="12.5" font-weight="700">Full-Stack RMM, EDR &amp; AI Diagnostics</text>
+
+  <rect x="424" y="24" width="132" height="26" rx="13" fill="#2e1065" stroke="#a855f7" stroke-opacity="0.6"/>
+  <text x="490" y="41" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="800">🚀 MONOREPO</text>
+
+  <text x="24" y="102" fill="#cbd5e1" font-family="Segoe UI, system-ui, sans-serif" font-size="13.5">Plataforma RMM turbinada (Django API + Vue 3 + Go Agent) com segurança</text>
+  <text x="24" y="122" fill="#cbd5e1" font-family="Segoe UI, system-ui, sans-serif" font-size="13.5">EDR, telemetria em tempo real, Network Tools, Auto-Cura, Winget &amp; IA.</text>
+
+  <g font-family="Consolas, monospace" font-size="11" font-weight="700">
+    <rect x="24" y="148" width="90" height="24" rx="6" fill="#21163d" stroke="#422c73"/>
+    <text x="69" y="164" text-anchor="middle" fill="#d8b4fe">Django + Go</text>
+    <rect x="122" y="148" width="84" height="24" rx="6" fill="#21163d" stroke="#422c73"/>
+    <text x="164" y="164" text-anchor="middle" fill="#a5b4fc">Vue 3 UI</text>
+    <rect x="214" y="148" width="110" height="24" rx="6" fill="#21163d" stroke="#422c73"/>
+    <text x="269" y="164" text-anchor="middle" fill="#7dd3fc">EDR &amp; AI Ops</text>
+  </g>
+
+  <text x="556" y="166" text-anchor="end" fill="#c084fc" font-family="Segoe UI, system-ui, sans-serif" font-size="13" font-weight="800">Explorar Monorepo →</text>
+</svg>
