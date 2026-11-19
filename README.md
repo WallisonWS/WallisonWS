@@ -56,11 +56,12 @@
 
 ---
 
-## 🧩 Complete Open-Source Directory (20 Live Multilingual Web Apps — EN / PT-BR / ES)
+## 🧩 Complete Open-Source Directory (21 Live Multilingual Web Apps — EN / PT-BR / ES)
 
-### 🛡️ AI Security & Blue-Team Cyber-Defense
+### 🛡️ AI Security, LLM Optimization & Blue-Team Cyber-Defense
 | Project | Focus Area | Live App |
 | :--- | :--- | :--- |
+| **[headroom-shield](https://github.com/WallisonWS/headroom-shield)** | **Zero-Dep LLM Context Compressor (60–95% token savings) + OWASP Prompt-Injection Shield**, SQLite CCR, MCP Server & Local Proxy (audited via REA). | [Launch →](https://wallisonws.github.io/headroom-shield/) |
 | **[aegis-llm-guard](https://github.com/WallisonWS/aegis-llm-guard)** | OWASP LLM Top 10 prompt-injection firewall & reversible PII vault for Gemini / Vertex AI / MCP. | [Launch →](https://wallisonws.github.io/aegis-llm-guard/) |
 | **[mcp-sentinel-firewall](https://github.com/WallisonWS/mcp-sentinel-firewall)** | Zero-Trust MCP server auditor: detects Tool-Poisoning, Rug-Pull SHA-256 drift & Cloud SSRF. | [Launch →](https://wallisonws.github.io/mcp-sentinel-firewall/) |
 | **[rag-poison-guard](https://github.com/WallisonWS/rag-poison-guard)** | Defends Vector DBs & RAG pipelines against Unicode Tag Smuggling, BiDi Trojans & Markdown exfil. | [Launch →](https://wallisonws.github.io/rag-poison-guard/) |

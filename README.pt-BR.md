@@ -58,11 +58,12 @@
 
 ---
 
-## 🧩 Catálogo Completo Open-Source (20 Web Apps Trilíngues Ao Vivo — PT-BR / EN / ES)
+## 🧩 Catálogo Completo Open-Source (21 Web Apps Trilíngues Ao Vivo — PT-BR / EN / ES)
 
-### 🛡️ Defesa Contra Ataques Hackers de IA & AppSec
+### 🛡️ Defesa Contra Ataques Hackers de IA, Compressão LLM & AppSec
 | Projeto | O Que Protege na Prática | App Online |
 | :--- | :--- | :--- |
+| **[headroom-shield](https://github.com/WallisonWS/headroom-shield)** | **Compressor de Contexto LLM Sem Dependências (60–95% menos tokens) + Escudo OWASP/PII**, CCR SQLite, Servidor MCP & Proxy Local (auditado com REA). | [Abrir →](https://wallisonws.github.io/headroom-shield/) |
 | **[aegis-llm-guard](https://github.com/WallisonWS/aegis-llm-guard)** | Firewall **OWASP LLM Top 10** (Prompt Injection) + Cofre Reversível **LGPD/PII** para Gemini, Vertex AI e MCP. | [Abrir →](https://wallisonws.github.io/aegis-llm-guard/) |
 | **[mcp-sentinel-firewall](https://github.com/WallisonWS/mcp-sentinel-firewall)** | Auditor Zero-Trust para agentes de código & servidores MCP: detecta *Tool-Poisoning*, *Rug-Pulls* (SHA-256) e SSRF. | [Abrir →](https://wallisonws.github.io/mcp-sentinel-firewall/) |
 | **[rag-poison-guard](https://github.com/WallisonWS/rag-poison-guard)** | Sanitizador de bases RAG / Vector DB contra caracteres invisíveis Unicode (`U+E0000`), BiDi Trojans e vazamento via imagem Markdown. | [Abrir →](https://wallisonws.github.io/rag-poison-guard/) |
