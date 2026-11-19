@@ -56,7 +56,16 @@
   </tr>
 </table>
 
-### 🏗️ More Production Infrastructure & Systems Repositories
+### 🌍 Open-Source Web Apps for Designers, Data Analysts, Writers & Businesses
+
+| Repository | Audience | Live App & Highlights |
+| :--- | :--- | :--- |
+| **[pixelcraft-studio](https://github.com/WallisonWS/pixelcraft-studio)** | `Frontend Devs` `UI/UX` `Creators` | [🌐 **Launch App**](https://wallisonws.github.io/pixelcraft-studio/) — HD Code Screenshots, Zero-Upload WebP/PNG Compressor, CSS Glassmorphism & WCAG Contrast Lab. |
+| **[datasense-bi](https://github.com/WallisonWS/datasense-bi)** | `Data & Business Analysts` `Finance` | [🌐 **Launch App**](https://wallisonws.github.io/datasense-bi/) — Drop any CSV/JSON for instant KPIs, Pivot Group-By (`SUM/AVG/COUNT`), Charts & Executive Markdown. |
+| **[markflow-studio](https://github.com/WallisonWS/markflow-studio)** | `Writers` `Students` `Job Seekers` `PMs` | [🌐 **Launch App**](https://wallisonws.github.io/markflow-studio/) — Split Markdown Editor with 1-click ATS Tech Resume, GitHub README & RFC templates + PDF export. |
+| **[quickbox-tools](https://github.com/WallisonWS/quickbox-tools)** | `Freelancers` `Businesses` `Everyone` | [🌐 **Launch App**](https://wallisonws.github.io/quickbox-tools/) — Wi-Fi/WhatsApp QR Generator, Printable Invoice/Quote PDF, Compound Interest Simulator & Pomodoro. |
+
+### 🏗️ Enterprise Infrastructure & RMM Repositories
 
 | Repository | Stack & Scope | Highlights |
 | :--- | :--- | :--- |
