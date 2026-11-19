@@ -56,6 +56,14 @@
   </tr>
 </table>
 
+### 🛡️ AI Cyber-Defense Suite (Defending Programmers Against AI-Powered Attacks)
+
+| Repository | Threat Defended | Live Console & SDK |
+| :--- | :--- | :--- |
+| **[mcp-sentinel-firewall](https://github.com/WallisonWS/mcp-sentinel-firewall)** | `MCP Tool-Poisoning` `Rug-Pulls` `SSRF` | [🌐 **Live Auditor**](https://wallisonws.github.io/mcp-sentinel-firewall/) — Zero-Trust firewall for AI coding agents & MCP servers with SHA-256 schema pinning & runtime argument defense. |
+| **[rag-poison-guard](https://github.com/WallisonWS/rag-poison-guard)** | `RAG Poisoning` `Unicode Trojans` `Exfil` | [🌐 **Live Sanitizer**](https://wallisonws.github.io/rag-poison-guard/) — Strips Invisible Unicode Tag Smuggling (`U+E0000`), BiDi overrides, hidden CSS injections & Markdown image exfiltration before Vector DB indexing. |
+| **[ai-bot-defense](https://github.com/WallisonWS/ai-bot-defense)** | `Autonomous AI Fuzzers` `Exploit Swarms` | [🌐 **Live Rule Builder**](https://wallisonws.github.io/ai-bot-defense/) — Honeypot Canary Traps, Adaptive Rate Limiters & instant configs for Nginx, Cloudflare WAF, Fail2Ban, FastAPI & Express. |
+
 ### 🌍 Open-Source Web Apps for Designers, Data Analysts, Writers & Businesses
 
 | Repository | Audience | Live App & Highlights |
