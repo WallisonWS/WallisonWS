@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="200" viewBox="0 0 580 200" role="img" aria-label="SRE and OSV Sentinel">
+  <defs>
+    <linearGradient id="bgS" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#0d1d2f"/>
+    </linearGradient>
+    <linearGradient id="barS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4285f4"/>
+      <stop offset="50%" stop-color="#34a853"/>
+      <stop offset="100%" stop-color="#fbbc05"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="200" rx="14" fill="url(#bgS)"/>
+  <rect x="1" y="1" width="578" height="198" rx="13" fill="none" stroke="#1e3a5f" stroke-width="1.5"/>
+  <rect x="0" y="0" width="580" height="4" rx="2" fill="url(#barS)"/>
+
+  <!-- Pure Vector Chart/Pulse Icon -->
+  <rect x="22" y="22" width="44" height="44" rx="10" fill="#0c2d48" stroke="#4285f4" stroke-opacity="0.6"/>
+  <polyline points="30,52 38,44 44,48 52,34 58,39" fill="none" stroke="#60a5fa" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="52" cy="34" r="3" fill="#34a853"/>
+
+  <text x="80" y="42" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="800">SRE &amp; OSV Sentinel</text>
+  <text x="80" y="61" fill="#60a5fa" font-family="Consolas, monospace" font-size="12" font-weight="700">Google SRE SLO + Live OSV.dev Scanner</text>
+
+  <rect x="424" y="22" width="134" height="24" rx="12" fill="#0c2d48" stroke="#4285f4" stroke-opacity="0.7"/>
+  <text x="491" y="38" text-anchor="middle" fill="#93c5fd" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="800">NEW • GOOGLE OSV</text>
+
+  <text x="22" y="98" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Google SRE Multi-Burn-Rate SLO generator (PromQL) + real-time Google</text>
+  <text x="22" y="118" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="13">OSV.dev API vulnerability auditing for npm, PyPI, Go &amp; Flutter/Pub.</text>
+
+  <g font-family="Consolas, monospace" font-size="11" font-weight="700">
+    <rect x="22" y="146" width="96" height="24" rx="6" fill="#0f253d" stroke="#1e4976"/>
+    <text x="70" y="162" text-anchor="middle" fill="#93c5fd">api.osv.dev</text>
+    <rect x="126" y="146" width="102" height="24" rx="6" fill="#0f253d" stroke="#1e4976"/>
+    <text x="177" y="162" text-anchor="middle" fill="#6ee7b7">SRE Burn-Rate</text>
+    <rect x="236" y="146" width="88" height="24" rx="6" fill="#0f253d" stroke="#1e4976"/>
+    <text x="280" y="162" text-anchor="middle" fill="#fcd34d">Go / Pub</text>
+  </g>
+  <text x="556" y="162" text-anchor="end" fill="#60a5fa" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="800">Launch Console →</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="200" viewBox="0 0 580 200" role="img" aria-label="Aegis LLM Guard">
+  <defs>
+    <linearGradient id="bgA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#17122e"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="200" rx="14" fill="url(#bgA)"/>
+  <rect x="1" y="1" width="578" height="198" rx="13" fill="none" stroke="#312e81" stroke-width="1.5"/>
+  <rect x="0" y="0" width="580" height="4" rx="2" fill="url(#barA)"/>
+
+  <!-- Pure Vector Shield Icon -->
+  <rect x="22" y="22" width="44" height="44" rx="10" fill="#1e1b4b" stroke="#818cf8" stroke-opacity="0.55"/>
+  <path d="M 44 31 L 56 36 L 56 46 C 56 53 51 58 44 61 C 37 58 32 53 32 46 L 32 36 Z" fill="none" stroke="#c084fc" stroke-width="2.4" stroke-linejoin="round"/>
+  <circle cx="44" cy="46" r="3.5" fill="#38bdf8"/>
+
+  <text x="80" y="42" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="800">Aegis LLM Guard</text>
+  <text x="80" y="61" fill="#c084fc" font-family="Consolas, monospace" font-size="12" font-weight="700">AI Agent Firewall &amp; Reversible PII Vault</text>
+
+  <rect x="424" y="22" width="134" height="24" rx="12" fill="#2e1065" stroke="#a855f7" stroke-opacity="0.65"/>
+  <text x="491" y="38" text-anchor="middle" fill="#e9d5ff" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="800">NEW • GEMINI / MCP</text>
+
+  <text x="22" y="98" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="13">OWASP LLM Top 10 prompt-injection firewall &amp; reversible LGPD/PII vault</text>
+  <text x="22" y="118" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="13">built for Google Gemini, Vertex AI &amp; MCP agents. Zero dependencies.</text>
+
+  <g font-family="Consolas, monospace" font-size="11" font-weight="700">
+    <rect x="22" y="146" width="98" height="24" rx="6" fill="#1e1b4b" stroke="#3730a3"/>
+    <text x="71" y="162" text-anchor="middle" fill="#c7d2fe">OWASP LLM</text>
+    <rect x="128" y="146" width="96" height="24" rx="6" fill="#1e1b4b" stroke="#3730a3"/>
+    <text x="176" y="162" text-anchor="middle" fill="#7dd3fc">PII Vault</text>
+    <rect x="232" y="146" width="110" height="24" rx="6" fill="#1e1b4b" stroke="#3730a3"/>
+    <text x="287" y="162" text-anchor="middle" fill="#6ee7b7">Python + JS</text>
+  </g>
+  <text x="556" y="162" text-anchor="end" fill="#c084fc" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="800">Open Playground →</text>
+</svg>
