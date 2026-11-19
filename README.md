@@ -5,10 +5,10 @@
 </a>
 
 <p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Current-1e293b?style=flat-square" alt="English" /></a>
+  <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/🇧🇷_Português_(BR)-Ler_em_PT--BR-10b981?style=flat-square" alt="Português Brasil" /></a>
+  <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-16_Web_Tools-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
   <a href="https://wallisonws.github.io/aegis-llm-guard/"><img src="https://img.shields.io/badge/AI_Security-Aegis_LLM_Guard-a855f7?style=flat-square" alt="Aegis LLM Guard" /></a>
-  <a href="https://wallisonws.github.io/sre-osv-sentinel/"><img src="https://img.shields.io/badge/Google_SRE-OSV_Sentinel-4285f4?style=flat-square" alt="SRE & OSV Sentinel" /></a>
-  <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps-12_Web_Tools-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
-  <a href="https://wallisonws.github.io/netguard-audit/"><img src="https://img.shields.io/badge/AppSec-NetGuard_CLI-10b981?style=flat-square" alt="NetGuard Audit" /></a>
   <a href="https://linkedin.com/in/wallisonaraujo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -74,7 +74,7 @@
 | :--- | :--- | :--- |
 | **[sre-osv-sentinel](https://github.com/WallisonWS/sre-osv-sentinel)** | Google SRE Multi-Burn-Rate SLO alerts (`PromQL`) + live Google `api.osv.dev` CVE scanner. | [Launch →](https://wallisonws.github.io/sre-osv-sentinel/) |
 | **[k8s-zero-trust-lab](https://github.com/WallisonWS/k8s-zero-trust-lab)** | Kubernetes `NetworkPolicy` generator & CIS Pod Security Standards YAML auditor (GKE/EKS/AKS). | [Launch →](https://wallisonws.github.io/k8s-zero-trust-lab/) |
-| **[devsecops-toolkit](https://github.com/WallisonWS/devsecops-toolkit)** | 12-in-1 local workbench: Multi-Vendor Firewall Transpiler, CIDR/VLSM, SOC, CVSS 3.1, Docker & SQL ERD. | [Launch →](https://wallisonws.github.io/devsecops-toolkit/) |
+| **[devsecops-toolkit](https://github.com/WallisonWS/devsecops-toolkit)** | **16-in-1 Bilingual (EN/PT-BR)** workbench: Firewall Transpiler, CIDR, SOC, CVSS 3.1, AI Token/Cost, Git Rescue, TLS 1.3 & Brazil CPF/CNPJ/PIX EMV. | [Launch →](https://wallisonws.github.io/devsecops-toolkit/) |
 | **[netguard-audit](https://github.com/WallisonWS/netguard-audit)** | Zero-dependency TLS & HTTP Security Headers grader (`A+` to `F`), Git secret audit & HTML reports. | [Launch →](https://wallisonws.github.io/netguard-audit/) |
 | **[zero-leak-env](https://github.com/WallisonWS/zero-leak-env)** | `.env` entropy auditor & converter to `.env.example`, Base64 K8s `Secret` YAML & `gh secret set`. | [Launch →](https://wallisonws.github.io/zero-leak-env/) |
 | **[awesome-secure-infrastructure](https://github.com/WallisonWS/awesome-secure-infrastructure)** | Zero-Trust network blueprints, CLI cheat sheets & automated daily Threat Intel IP blocklists. | [Browse →](https://github.com/WallisonWS/awesome-secure-infrastructure) |
@@ -87,7 +87,7 @@
 | **[pixelcraft-studio](https://github.com/WallisonWS/pixelcraft-studio)** | HD Code Screenshots, zero-upload WebP/PNG optimizer, CSS Glassmorphism & WCAG 2.1 contrast lab. | [Launch →](https://wallisonws.github.io/pixelcraft-studio/) |
 | **[datasense-bi](https://github.com/WallisonWS/datasense-bi)** | Zero-upload browser BI dashboard: drop any CSV/JSON for KPIs, Pivot tables, charts & Markdown export. | [Launch →](https://wallisonws.github.io/datasense-bi/) |
 | **[markflow-studio](https://github.com/WallisonWS/markflow-studio)** | Split Markdown editor with 1-click ATS Tech Resume, GitHub README & RFC templates + PDF export. | [Launch →](https://wallisonws.github.io/markflow-studio/) |
-| **[quickbox-tools](https://github.com/WallisonWS/quickbox-tools)** | Ad-free everyday suite: Wi-Fi/WhatsApp QR codes, printable Invoice PDF, compound interest & Pomodoro. | [Launch →](https://wallisonws.github.io/quickbox-tools/) |
+| **[quickbox-tools](https://github.com/WallisonWS/quickbox-tools)** | Ad-free everyday suite: **Official EMV PIX QR Code (`CRC16`)**, Wi-Fi/WhatsApp QR, printable Invoice PDF, **USD↔BRL Remote Dev PJ Simulator** & Pomodoro. | [Launch →](https://wallisonws.github.io/quickbox-tools/) |
 
 ---
 
