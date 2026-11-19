@@ -7,7 +7,7 @@
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Current-1e293b?style=flat-square" alt="English" /></a>
   <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/🇧🇷_Português_(BR)-Ler_em_PT--BR-10b981?style=flat-square" alt="Português Brasil" /></a>
-  <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-16_Web_Tools-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
+  <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-18_Web_Tools-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
   <a href="https://wallisonws.github.io/aegis-llm-guard/"><img src="https://img.shields.io/badge/AI_Security-Aegis_LLM_Guard-a855f7?style=flat-square" alt="Aegis LLM Guard" /></a>
   <a href="https://linkedin.com/in/wallisonaraujo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧩 Complete Open-Source Directory (17 Live Web Apps + CLIs)
+## 🧩 Complete Open-Source Directory (20 Live Multilingual Web Apps — EN / PT-BR / ES)
 
 ### 🛡️ AI Security & Blue-Team Cyber-Defense
 | Project | Focus Area | Live App |
@@ -74,7 +74,8 @@
 | :--- | :--- | :--- |
 | **[sre-osv-sentinel](https://github.com/WallisonWS/sre-osv-sentinel)** | Google SRE Multi-Burn-Rate SLO alerts (`PromQL`) + live Google `api.osv.dev` CVE scanner. | [Launch →](https://wallisonws.github.io/sre-osv-sentinel/) |
 | **[k8s-zero-trust-lab](https://github.com/WallisonWS/k8s-zero-trust-lab)** | Kubernetes `NetworkPolicy` generator & CIS Pod Security Standards YAML auditor (GKE/EKS/AKS). | [Launch →](https://wallisonws.github.io/k8s-zero-trust-lab/) |
-| **[devsecops-toolkit](https://github.com/WallisonWS/devsecops-toolkit)** | **16-in-1 Bilingual (EN/PT-BR)** workbench: Firewall Transpiler, CIDR, SOC, CVSS 3.1, AI Token/Cost, Git Rescue, TLS 1.3 & Brazil CPF/CNPJ/PIX EMV. | [Launch →](https://wallisonws.github.io/devsecops-toolkit/) |
+| **[devsecops-toolkit](https://github.com/WallisonWS/devsecops-toolkit)** | **18-in-1 Multilingual (EN/PT/ES)** workbench: Firewall Transpiler, CIDR, SOC, CVSS 3.1, HS256 JWT Signer, File SHA-256, AI Cost, Git Rescue & Brazil CPF/PIX EMV. | [Launch →](https://wallisonws.github.io/devsecops-toolkit/) |
+| **[passvault-audit](https://github.com/WallisonWS/passvault-audit)** | Offline Auth & Crypto Lab: **Real RFC 6238 TOTP 2FA Live Debugger**, GPU H100 Crack-Time Estimator & CSPRNG Diceware generator. | [Launch →](https://wallisonws.github.io/passvault-audit/) |
 | **[netguard-audit](https://github.com/WallisonWS/netguard-audit)** | Zero-dependency TLS & HTTP Security Headers grader (`A+` to `F`), Git secret audit & HTML reports. | [Launch →](https://wallisonws.github.io/netguard-audit/) |
 | **[zero-leak-env](https://github.com/WallisonWS/zero-leak-env)** | `.env` entropy auditor & converter to `.env.example`, Base64 K8s `Secret` YAML & `gh secret set`. | [Launch →](https://wallisonws.github.io/zero-leak-env/) |
 | **[awesome-secure-infrastructure](https://github.com/WallisonWS/awesome-secure-infrastructure)** | Zero-Trust network blueprints, CLI cheat sheets & automated daily Threat Intel IP blocklists. | [Browse →](https://github.com/WallisonWS/awesome-secure-infrastructure) |
@@ -83,6 +84,8 @@
 ### ⚡ Developer Experience, Data Analytics & Productivity Apps
 | Project | Audience & Capabilities | Live App |
 | :--- | :--- | :--- |
+| **[sql-sandbox-studio](https://github.com/WallisonWS/sql-sandbox-studio)** | **Real Browser SQL Engine:** Drop any CSV/JSON and execute live `SELECT / WHERE / GROUP BY / SUM / AVG / ORDER BY` queries locally. | [Launch →](https://wallisonws.github.io/sql-sandbox-studio/) |
+| **[git-ops-commander](https://github.com/WallisonWS/git-ops-commander)** | Git Emergency Recovery Wizard (`reflog`, secret scrub, detached HEAD), multi-stack `.gitignore` & Conventional Commits. | [Launch →](https://wallisonws.github.io/git-ops-commander/) |
 | **[api-blueprint-studio](https://github.com/WallisonWS/api-blueprint-studio)** | JSON → OpenAPI 3.1 YAML, TypeScript Zod, Python Pydantic v2, Go Structs & HMAC-SHA256 Webhooks. | [Launch →](https://wallisonws.github.io/api-blueprint-studio/) |
 | **[pixelcraft-studio](https://github.com/WallisonWS/pixelcraft-studio)** | HD Code Screenshots, zero-upload WebP/PNG optimizer, CSS Glassmorphism & WCAG 2.1 contrast lab. | [Launch →](https://wallisonws.github.io/pixelcraft-studio/) |
 | **[datasense-bi](https://github.com/WallisonWS/datasense-bi)** | Zero-upload browser BI dashboard: drop any CSV/JSON for KPIs, Pivot tables, charts & Markdown export. | [Launch →](https://wallisonws.github.io/datasense-bi/) |
