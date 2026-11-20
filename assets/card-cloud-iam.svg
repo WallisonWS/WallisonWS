@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="200" viewBox="0 0 580 200" role="img" aria-label="Cloud IAM Zero-Trust">
+  <defs>
+    <linearGradient id="bgC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#0f1d36"/>
+    </linearGradient>
+    <linearGradient id="barC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4285f4"/>
+      <stop offset="50%" stop-color="#0078d4"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="200" rx="14" fill="url(#bgC)"/>
+  <rect x="1" y="1" width="578" height="198" rx="13" fill="none" stroke="#1d4ed8" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="0" y="0" width="580" height="4" rx="2" fill="url(#barC)"/>
+
+  <!-- Pure Vector Cloud + Lock Icon -->
+  <rect x="22" y="22" width="44" height="44" rx="10" fill="#0f2544" stroke="#38bdf8" stroke-opacity="0.6"/>
+  <path d="M 33 51 H 55 C 58 51 60 49 60 46 C 60 43.5 58 41.5 55.5 41.3 C 54.8 36.5 50.8 33 46 33 C 41.8 33 38.2 35.8 37.2 39.7 C 33.8 40.1 31 42.9 31 46.2 C 31 49 32 51 33 51 Z" fill="none" stroke="#60a5fa" stroke-width="2.2" stroke-linejoin="round"/>
+  <circle cx="45" cy="44" r="2.6" fill="#fbbf24"/>
+
+  <text x="80" y="42" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="800">Cloud IAM Zero-Trust</text>
+  <text x="80" y="61" fill="#60a5fa" font-family="Consolas, monospace" font-size="12" font-weight="700">GCP, Microsoft Azure Entra &amp; AWS Auditor</text>
+
+  <rect x="414" y="22" width="144" height="24" rx="12" fill="#0c2d48" stroke="#0078d4" stroke-opacity="0.75"/>
+  <text x="486" y="38" text-anchor="middle" fill="#93c5fd" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="800">GCP • AZURE • AWS</text>
+
+  <text x="22" y="98" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Detects IAM privilege escalation &amp; exports Microsoft Sentinel KQL,</text>
+  <text x="22" y="118" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="13">Google SecOps YARA-L 2.0, Azure Bicep &amp; GCP Terraform rules.</text>
+
+  <g font-family="Consolas, monospace" font-size="11" font-weight="700">
+    <rect x="22" y="146" width="106" height="24" rx="6" fill="#0f253d" stroke="#1e4976"/>
+    <text x="75" y="162" text-anchor="middle" fill="#93c5fd">Sentinel KQL</text>
+    <rect x="136" y="146" width="108" height="24" rx="6" fill="#0f253d" stroke="#1e4976"/>
+    <text x="190" y="162" text-anchor="middle" fill="#6ee7b7">YARA-L / TF</text>
+    <rect x="252" y="146" width="96" height="24" rx="6" fill="#0f253d" stroke="#1e4976"/>
+    <text x="300" y="162" text-anchor="middle" fill="#fcd34d">Py + Pwsh</text>
+  </g>
+  <text x="556" y="162" text-anchor="end" fill="#60a5fa" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="800">Launch Studio →</text>
+</svg>
