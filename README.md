@@ -7,10 +7,11 @@
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Current-1e293b?style=flat-square" alt="English" /></a>
   <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/🇧🇷_Português_(BR)-Ler_em_PT--BR-10b981?style=flat-square" alt="Português Brasil" /></a>
+  <a href="https://wallison-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-wallison--dev.vercel.app-6366f1?style=flat-square" alt="Portfolio" /></a>
   <a href="https://wallisonws.github.io/headroom-shield/"><img src="https://img.shields.io/badge/AI_Systems-Headroom_Shield_v1.1-10b981?style=flat-square" alt="Headroom Shield" /></a>
   <a href="https://wallisonws.github.io/cloud-iam-zero-trust/"><img src="https://img.shields.io/badge/Multi--Cloud_IAM-GCP_|_Azure_|_AWS-0078d4?style=flat-square" alt="Cloud IAM Zero-Trust" /></a>
   <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-18_Web_Tools-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
-  <a href="https://linkedin.com/in/wallisonaraujo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/osintpaw/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -143,5 +144,5 @@
 ---
 
 <div align="center">
-  <sub>Open to high-impact <b>Software Engineering, AI Security, Cloud Security (GCP/Azure) &amp; SRE</b> collaborations worldwide • <a href="https://linkedin.com/in/wallisonaraujo">LinkedIn</a> • <a href="mailto:wallisonoficial85@gmail.com">wallisonoficial85@gmail.com</a></sub>
+  <sub>Open to high-impact <b>Systems Analysis, AI Security, Cloud Security (GCP/Azure) &amp; SRE</b> collaborations worldwide • <a href="https://wallison-dev.vercel.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/osintpaw/">LinkedIn</a> • <a href="mailto:wallisonoficial85@gmail.com">wallisonoficial85@gmail.com</a></sub>
 </div>

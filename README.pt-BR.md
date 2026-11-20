@@ -7,10 +7,11 @@
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_Read_in_English-Global_Version-38bdf8?style=flat-square" alt="Read in English" /></a>
   <a href="README.pt-BR.md"><img src="https://img.shields.io/badge/🇧🇷_Português_(BR)-Ativo-1e293b?style=flat-square" alt="Português Brasil" /></a>
+  <a href="https://wallison-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfólio-wallison--dev.vercel.app-6366f1?style=flat-square" alt="Portfólio" /></a>
   <a href="https://wallisonws.github.io/headroom-shield/"><img src="https://img.shields.io/badge/AI_Systems-Headroom_Shield_v1.1-10b981?style=flat-square" alt="Headroom Shield" /></a>
   <a href="https://wallisonws.github.io/cloud-iam-zero-trust/"><img src="https://img.shields.io/badge/Multi--Cloud_IAM-GCP_|_Azure_|_AWS-0078d4?style=flat-square" alt="Cloud IAM Zero-Trust" /></a>
   <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-18_Ferramentas-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
-  <a href="https://linkedin.com/in/wallisonaraujo"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/osintpaw/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -112,5 +113,5 @@
 ---
 
 <div align="center">
-  <sub>Aberto a oportunidades de alto impacto em <b>Engenharia de Software, Segurança de IA, Cloud Security (GCP/Azure) &amp; SRE</b> (Brasil &amp; Remoto Internacional) • <a href="https://linkedin.com/in/wallisonaraujo">LinkedIn</a> • <a href="mailto:wallisonoficial85@gmail.com">wallisonoficial85@gmail.com</a></sub>
+  <sub>Aberto a oportunidades de alto impacto em <b>Análise de Sistemas, Segurança de IA, Cloud Security (GCP/Azure) &amp; SRE</b> (Brasil &amp; Remoto Internacional) • <a href="https://wallison-dev.vercel.app/">Portfólio</a> • <a href="https://www.linkedin.com/in/osintpaw/">LinkedIn</a> • <a href="mailto:wallisonoficial85@gmail.com">wallisonoficial85@gmail.com</a></sub>
 </div>
