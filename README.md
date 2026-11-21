@@ -12,6 +12,7 @@
   <a href="https://wallisonws.github.io/cloud-iam-zero-trust/"><img src="https://img.shields.io/badge/Multi--Cloud_IAM-GCP_|_Azure_|_AWS-0078d4?style=flat-square" alt="Cloud IAM Zero-Trust" /></a>
   <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-18_Web_Tools-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
   <a href="https://www.linkedin.com/in/osintpaw/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sponsors/WallisonWS"><img src="https://img.shields.io/badge/❤️_Sponsor-Support_OSS-ea4aaa?style=flat-square" alt="Sponsor WallisonWS" /></a>
   <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -140,6 +141,14 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+---
+
+## ❤️ Support & Corporate Sponsorship
+
+All **22+ tools** are free, ad-free, and zero-telemetry. If these projects save your engineering or security team time, consider becoming a sponsor — companies and teams can feature their logo across flagship repositories and prioritize custom Cloud/OWASP rules:
+
+* 💖 **[Become a GitHub Sponsor](https://github.com/sponsors/WallisonWS)** • 📄 **[View Sponsorship Tiers & Corporate Options](https://github.com/WallisonWS/.github/blob/main/SPONSORS.md)**
 
 ---
 

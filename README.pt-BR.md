@@ -12,6 +12,7 @@
   <a href="https://wallisonws.github.io/cloud-iam-zero-trust/"><img src="https://img.shields.io/badge/Multi--Cloud_IAM-GCP_|_Azure_|_AWS-0078d4?style=flat-square" alt="Cloud IAM Zero-Trust" /></a>
   <a href="https://wallisonws.github.io/devsecops-toolkit/"><img src="https://img.shields.io/badge/DevSecOps_Toolkit-18_Ferramentas-0ea5e9?style=flat-square" alt="DevSecOps Toolkit" /></a>
   <a href="https://www.linkedin.com/in/osintpaw/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sponsors/WallisonWS"><img src="https://img.shields.io/badge/❤️_Patrocinar-Apoiar_OSS-ea4aaa?style=flat-square" alt="Patrocinar WallisonWS" /></a>
   <a href="mailto:wallisonoficial85@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -109,6 +110,14 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/WallisonWS/WallisonWS/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+---
+
+## ❤️ Apoie & Patrocine o Ecossistema Open-Source
+
+Todas as **22+ ferramentas** são gratuitas, sem anúncios e 100% locais. Se algum projeto economiza tempo seu ou do seu time, considere apoiar — empresas e equipes também podem divulgar sua marca nos repositórios principais e priorizar novas regras de Cloud/IA:
+
+* 💖 **[Apoiar via GitHub Sponsors](https://github.com/sponsors/WallisonWS)** • 📄 **[Ver Planos para Empresas e Apoiadores](https://github.com/WallisonWS/.github/blob/main/SPONSORS.md)**
 
 ---
 
